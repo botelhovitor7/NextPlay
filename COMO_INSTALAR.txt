@@ -1,0 +1,11 @@
+NEXTPLAY - INSTALACAO NO XAMPP (WINDOWS 10)
+
+1. Extraia a pasta lojagames_next1 diretamente em C:\xampp\htdocs\
+2. Abra o XAMPP e inicie Apache e MySQL.
+3. Acesse http://localhost/phpmyadmin e clique em Importar na pagina inicial.
+4. Selecione lojagames_next1\database\nextplay.sql e confirme.
+5. Acesse http://localhost/lojagames_next1/index.php
+6. Banco usado: nextplay_db (independente do banco antigo loja_games).
+7. Admin de teste: evandro@gmail.com / admin123
+
+Nao e necessario importar os outros arquivos SQL.

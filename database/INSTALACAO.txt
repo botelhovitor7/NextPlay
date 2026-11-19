@@ -1,0 +1,1 @@
+INSTALACAO NOVA: importe apenas nextplay.sql na pagina inicial do phpMyAdmin. O banco nextplay_db sera criado automaticamente. Nao precisa importar os outros dois SQL.
